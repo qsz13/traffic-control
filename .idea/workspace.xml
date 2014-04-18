@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38d42fe2-9494-423f-a6e5-4c79a480ed28" name="Default" comment="" />
+    <ignored path="TrafficControl.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TrafficControl$main.coverage" NAME="main Coverage Results" MODIFIED="1397797565191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TrafficControl" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="lane.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="8" selection-start="1405" selection-end="1405" vertical-scroll-proportion="0.7297297" vertical-offset="228" max-vertical-offset="1005">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="action.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1560">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="car.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="0" selection-start="2901" selection-end="2901" vertical-scroll-proportion="0.0" vertical-offset="1185" max-vertical-offset="2580">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="10" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/direction.py" />
+        <option value="$PROJECT_DIR$/trafficlight.py" />
+        <option value="$PROJECT_DIR$/cocos/collision_model.py" />
+        <option value="$PROJECT_DIR$/button.py" />
+        <option value="$PROJECT_DIR$/scheduler.py" />
+        <option value="$PROJECT_DIR$/action.py" />
+        <option value="$PROJECT_DIR$/car.py" />
+        <option value="$PROJECT_DIR$/lane.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/trafficmap.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrafficControl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrafficControl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TrafficControl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="PyConsoleConfigurable.Python Console" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="&#10;" module-name="TrafficControl" is-module-sdk="true">
+        <envs>
+          <env key="VERSIONER_PYTHON_PREFER_32_BIT" value="yes" />
+        </envs>
+        <option name="myCustomStartScript" value="&#10;" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="TrafficControl" />
+        <option name="myEnvs">
+          <map>
+            <entry key="VERSIONER_PYTHON_PREFER_32_BIT" value="yes" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="VERSIONER_PYTHON_PREFER_32_BIT" value="yes" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TrafficControl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TrafficControl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TrafficControl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TrafficControl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TrafficControl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TrafficControl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TrafficControl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TrafficControl" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38d42fe2-9494-423f-a6e5-4c79a480ed28" name="Default" comment="" />
+      <created>1396614773420</created>
+      <updated>1396614773420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="0" selection-start="4243" selection-end="4243" vertical-scroll-proportion="0.0" vertical-offset="1815" max-vertical-offset="2880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/base_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="411" column="6" selection-start="14309" selection-end="14309" vertical-scroll-proportion="0.0" vertical-offset="5861" max-vertical-offset="15690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="10" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="58" selection-start="1881" selection-end="1881" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="57" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1335">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyglet/image/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="18" selection-start="7650" selection-end="7662" vertical-scroll-proportion="0.0" vertical-offset="3255" max-vertical-offset="38145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/scenes/pause.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="1635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/move_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="10" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="24" selection-start="1716" selection-end="1716" vertical-scroll-proportion="0.0" vertical-offset="543" max-vertical-offset="1320">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyglet/image/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="18" selection-start="7650" selection-end="7662" vertical-scroll-proportion="0.0" vertical-offset="3255" max-vertical-offset="38145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/scenes/pause.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="1635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/move_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="3375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="10" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/cocosnode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="428" column="8" selection-start="15037" selection-end="15037" vertical-scroll-proportion="0.0" vertical-offset="6420" max-vertical-offset="13845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/sprite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="22" selection-start="3406" selection-end="3504" vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="5535" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="31" selection-start="151" selection-end="151" vertical-scroll-proportion="0.033936653" vertical-offset="0" max-vertical-offset="23100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/six.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="24" selection-start="579" selection-end="579" vertical-scroll-proportion="-6.6" vertical-offset="0" max-vertical-offset="9750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/rect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="6" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.33333334" vertical-offset="326" max-vertical-offset="4695" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.4864865" vertical-offset="378" max-vertical-offset="1155" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/596071422/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="591" column="6" selection-start="19944" selection-end="19944" vertical-scroll-proportion="0.08793456" vertical-offset="8822" max-vertical-offset="76485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyglet/event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="432" column="26" selection-start="15648" selection-end="15648" vertical-scroll-proportion="0.6777344" vertical-offset="6133" max-vertical-offset="6645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/layer/util_layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="0" selection-start="4328" selection-end="4328" vertical-scroll-proportion="0.7128906" vertical-offset="1450" max-vertical-offset="2400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyglet/text/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="374" column="6" selection-start="12462" selection-end="12462" vertical-scroll-proportion="0.33203125" vertical-offset="5395" max-vertical-offset="7620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="27" selection-start="4516" selection-end="4516" vertical-scroll-proportion="0.7128906" vertical-offset="1315" max-vertical-offset="3615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/scenes/pause.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.21621622" vertical-offset="168" max-vertical-offset="1635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyglet/image/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="18" selection-start="7650" selection-end="7662" vertical-scroll-proportion="-0.28957528" vertical-offset="3255" max-vertical-offset="37920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/camera_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.6100795" vertical-offset="1968" max-vertical-offset="2745" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/grid3d_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7830" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/draw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="411" column="0" selection-start="13490" selection-end="13490" vertical-scroll-proportion="0.45945945" vertical-offset="5703" max-vertical-offset="6480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/basegrid_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="30" selection-start="3512" selection-end="3512" vertical-scroll-proportion="-1.2934363" vertical-offset="2400" max-vertical-offset="6060" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/instant_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="23" selection-start="3251" selection-end="3251" vertical-scroll-proportion="0.15057915" vertical-offset="1338" max-vertical-offset="2475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/move_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="20" selection-start="4131" selection-end="4131" vertical-scroll-proportion="0.2084942" vertical-offset="1623" max-vertical-offset="3375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyglet/clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="748" column="4" selection-start="26339" selection-end="26339" vertical-scroll-proportion="0.33333334" vertical-offset="10901" max-vertical-offset="14265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficlight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="26" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="930" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="0" selection-start="2422" selection-end="2422" vertical-scroll-proportion="0.8828125" vertical-offset="583" max-vertical-offset="1215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/sprite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="11" selection-start="3137" selection-end="3137" vertical-scroll-proportion="0.4926004" vertical-offset="952" max-vertical-offset="5520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/cocosnode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="822" column="27" selection-start="26866" selection-end="26866" vertical-scroll-proportion="-0.029296875" vertical-offset="12330" max-vertical-offset="13830" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/collision_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="20" selection-start="4218" selection-end="4218" vertical-scroll-proportion="-11.3671875" vertical-offset="7725" max-vertical-offset="11925" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/interval_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="315" column="20" selection-start="9684" selection-end="9684" vertical-scroll-proportion="0.359375" vertical-offset="4541" max-vertical-offset="11235" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos/actions/base_actions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="514" column="7" selection-start="16771" selection-end="17921" vertical-scroll-proportion="0.7910156" vertical-offset="7305" max-vertical-offset="15690" />
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ctypes/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="364" column="0" selection-start="11497" selection-end="11497" vertical-scroll-proportion="0.43076923" vertical-offset="5264" max-vertical-offset="8415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="0" selection-start="2901" selection-end="2901" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="10" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trafficmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="210" column="26" selection-start="7739" selection-end="7739" vertical-scroll-proportion="0.64659685" vertical-offset="2656" max-vertical-offset="4470">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="8" selection-start="1405" selection-end="1405" vertical-scroll-proportion="0.7297297" vertical-offset="228" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
